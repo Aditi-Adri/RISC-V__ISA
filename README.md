@@ -6,3 +6,6 @@ The RISC-V Assembly to Machine Code Converter is a Python- based tool designed t
 HOW TO USE: 
 1. Input your instruction.
 2. click Convert & view the result
+
+**By Aditi Roy Adri**  
+[Visit my Portfolio](https://aditi-adri.github.io/AditiRoyAdri/) | [GitHub Profile](https://github.com/aditi-adri)
